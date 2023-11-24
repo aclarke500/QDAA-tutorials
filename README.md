@@ -5,7 +5,7 @@
     Lectures:
   </h2>
   <ul>
-    <li><a href="https://colab.research.google.com/drive/162N4tXzAtYrkTqSZCexzJwK9orfb7gqj?usp=sharing">Lecture 1</a> - Covers Python dataframes, and Pandas. Uses Montreal dataset</li>
+    <li><a href="https://youtu.be/5DrJKXi0CEk">Lecture 1</a> - Covers Python dataframes, and Pandas. Uses Montréal dataset</li>
   </ul>
   <h2>Datasets:</h2>
   <ul>
