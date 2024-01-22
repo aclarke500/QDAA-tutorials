@@ -7,6 +7,7 @@
   <ul>
     <li><a href="https://youtu.be/5DrJKXi0CEk">Lecture 1</a> - Covers Python dataframes, and Pandas. Uses Montréal dataset</li>
   </ul>
+  <li>Lecture 2 - VIDEO COMING SOON - Covers data cleaning using Pandas</li>
   <h2>Datasets:</h2>
   <ul>
     <li>Montréal Airbnb listing</li>
